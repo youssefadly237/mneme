@@ -30,6 +30,6 @@ worth publishing, I'll release it on GitHub
 
 email me
 
-> how do you feel when you are writing email me for a project that no cares about
+> how do you feel writing "email me" for a project that no cares about
 
 > idk
