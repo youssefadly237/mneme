@@ -3,6 +3,10 @@
 A local spaced repetition flashcard app, like Anki? yes, but without the
 complexity, you can do more with Anki, but Mneme is easier
 
+## Arabic video showing case
+
+[![Mneme Alpha Preview](https://img.youtube.com/vi/-O-4HTTAZA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-O-4HTTAZA8)
+
 ## stack
 
 - rust
