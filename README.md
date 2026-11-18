@@ -3,6 +3,27 @@
 A local spaced repetition flashcard app, like Anki? yes, but without the
 complexity, you can do more with Anki, but Mneme is easier
 
+## Features
+
+features are generally optional (even the ui itself) so you can skip what you don't need
+
+**already implemented:**
+
+- GUI[^1]
+- REST API
+- MCP
+- Sync
+
+planned:
+
+- android client
+- more UI polish
+- basic anki compatability (flip cards)
+
+not planned
+
+- full anki compatability
+
 ## Arabic video showing case
 
 [![Mneme Alpha Preview](https://img.youtube.com/vi/-O-4HTTAZA8/maxresdefault.jpg)](https://www.youtube.com/watch?v=-O-4HTTAZA8)
@@ -44,3 +65,5 @@ email me
 > how do you feel writing "email me" for a project that no cares about
 
 > idk
+
+[^1]: GUI is built with egui rn it is working fine, but the app is modular enough to swap it, it is not really dependent on it, sure it is not free, but not impossible, also the API is enough to build a web app without relying on the provided UI at all
