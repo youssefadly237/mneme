@@ -33,6 +33,9 @@ worth publishing, I'll release it on GitHub
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fd40a95-eaf3-48e5-b270-cfb2b872d332" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abd94e58-d742-4c41-a25a-5c4986ea5d20" />
+
+we are at 175 commits no, I never expected that tbh
 
 ## Alpha tester?
 
