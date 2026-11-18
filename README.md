@@ -14,13 +14,13 @@ features are generally optional (even the ui itself) so you can skip what you do
 - MCP
 - Sync
 
-planned:
+**planned:**
 
 - android client
 - more UI polish
 - basic anki compatability (flip cards)
 
-not planned
+**not planned:**
 
 - full anki compatability
 
