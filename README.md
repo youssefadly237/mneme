@@ -16,7 +16,7 @@ features are generally optional (even the ui itself) so you can skip what you do
 
 **planned:**
 
-- android client
+- android app
 - more UI polish
 - basic anki compatability (flip cards)
 
